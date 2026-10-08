@@ -7,7 +7,7 @@ export function Form() {
             <Input type="text" placeholder="Username"/>
             <Input type="password" placeholder="Password"/>
             <Input type="password" placeholder="Confirm Password"/>
-            <Button type="submit" value="Register"/>
+            <Button type="submit" value="Register" />
         </form>
     );
 }

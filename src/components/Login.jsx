@@ -6,7 +6,7 @@ export function Login() {
         <form className="form">
             <Input type="text" placeholder="Username"/>
             <Input type="password" placeholder="Password"/>
-            <Button value="Login"/>
+            <Button type="submit" value="Login"/>
         </form>
     )
 }
